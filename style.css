@@ -78,7 +78,7 @@ body#order {
     padding:10px 0px 0px 0px;
     font-size:60px;
     font-family: Playball;
-    color #2196f3;
+    color: #2196f3;
 }
 /*********Left &  Right Arrrows*/
 .nav-right{
@@ -99,7 +99,7 @@ body#order {
 #food-name  {
     text-align: center;
     font-size:25px;
-    color: rgb(0,0,1.0)
+    color: rgb(0,0,1.0);
     font-family:Libre;
 }
 
